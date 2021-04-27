@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Java
+2. C
+3. VHDL
+4. MIPS
